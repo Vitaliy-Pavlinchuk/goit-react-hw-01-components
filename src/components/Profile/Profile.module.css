@@ -16,7 +16,7 @@ li {
 
 .description {
   display: block;
-  width: 305px;
+  width: 390px;
   border: 4mm ridge rgba(182, 182, 175, 0.6);
 }
 
@@ -44,6 +44,7 @@ li {
 }
 
 .stats {
+  width: 420px;
   display: flex;
   justify-content: space-evenly;
 }
